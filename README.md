@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,18,20,29&text=Ye%20Myat%20Thu%20%20%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=ff0000&center=true&vCenter=true&width=650&lines=May%20The%20Force%20Be%20With%20You" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=650&lines=May%20The%20Force%20Be%20With%20You" alt="Typing introduction" />
 </p>
 
 <p align="center">
