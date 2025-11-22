@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,11,20,29&text=Ye%20Myat%20Thu%20%20%20%20%20&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Unofficial%20force%20sensitive%20jedi%20writing%20code%20as%20undercover&descSize=18&descAlignY=55&textBg=false"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=00FF41&center=true&vCenter=true&width=650&lines=May%20The%20Force%20Be%20With%20You" alt="Typing introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=4000&pause=1000&color=000000&center=true&vCenter=true&width=650&lines=May%20The%20Force%20Be%20With%20You" alt="Typing introduction" />
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
   </a>
 </p>
 
-<img src="https://thirsty-jade-mollusk.myfilebase.com/ipfs/QmarP8j3Dt3DTVEorQmHZSd8obskxq3MHW1dXTqfRX3Uz7" alt="Banner" width="100%" />
+<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/156391961/517735289-365ab425-09fe-47b9-8bbd-0acf39d4afe2.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251122%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251122T155148Z&X-Amz-Expires=300&X-Amz-Signature=1ea75843e2190b87516b27cec431f36f593d93ba5621c71a0ac6a07be488ccf7&X-Amz-SignedHeaders=host" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - Senior React Native Developer with five years of experience in working with React Native and Angular. Also have backend development experience with Laravel and Node JS, and native mobile development experience using Kotlin with MVVM architecture. Expertise in using Redux and React Query, have advance understanding of using TypeScript specific features and using RXJS with Angular. Have a lot of experience in creating interactive UI components with Reanimated and Gesture Handler, as well as integrating Lottie animations.
